@@ -1,0 +1,79 @@
+_repo: Opuscula-Selecta-NeerlandicorumNederlandsch-Tijdschrift-voor-Geneeskunde_19072
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Gaubius, Hieronymus David
+    aliases:
+    - Gaubius, H. D. (Hieronymus David)
+    - Gaubius, Jerome David
+    - Gaube, Hieronymus David
+    - Gaubius, Hieronymous Davides
+    - Gaubius, Jérôme David
+    deathdate: 1780
+    gutenberg_agent_id: '6790'
+    url: http://www.gutenberg.org/2009/agents/6790
+    wikipedia: http://en.wikipedia.org/wiki/Hieronymus_David_Gaubius
+  - agent_name: Donders, F. C. (Franciscus Cornelis)
+    alias: Donders, Franciscus Cornelis
+    birthdate: 1818
+    deathdate: 1889
+    gutenberg_agent_id: '7123'
+    url: http://www.gutenberg.org/2009/agents/7123
+    wikipedia: http://nl.wikipedia.org/wiki/Franciscus_Cornelis_Donders
+  - agent_name: Swammerdam, Jan
+    birthdate: 1637
+    deathdate: 1680
+    gutenberg_agent_id: '8335'
+    url: http://www.gutenberg.org/2009/agents/8335
+    wikipedia: http://en.wikipedia.org/wiki/Jan_Swammerdam
+  - agent_name: Boerhaave, Herman
+    birthdate: 1668
+    deathdate: 1738
+    gutenberg_agent_id: '6193'
+    url: http://www.gutenberg.org/2009/agents/6193
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Boerhaave
+  - agent_name: Erasmus, Desiderius
+    alias: Erasmus, of Rotterdam
+    birthdate: 1469
+    deathdate: 1536
+    gutenberg_agent_id: '3026'
+    url: http://www.gutenberg.org/2009/agents/3026
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus
+  - agent_name: Leeuwenhoek, Antoni van
+    aliases:
+    - Leeuwenhoek, Thonius Philips van
+    - Leeuwenhoeck, Antonius
+    - Leeuwenhoek, Anthony van
+    birthdate: 1632
+    deathdate: 1723
+    gutenberg_agent_id: '8336'
+    url: http://www.gutenberg.org/2009/agents/8336
+    wikipedia: http://en.wikipedia.org/wiki/Anton_van_Leeuwenhoek
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Treub, Hector
+    birthdate: 1856
+    deathdate: 1920
+    gutenberg_agent_id: '8448'
+    url: http://www.gutenberg.org/2009/agents/8448
+description: ''
+gutenberg_issued: '2006-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19072'
+language:
+- la
+- nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Netherlands -- History'
+- !lcc 'R'
+title: 'Opuscula Selecta Neerlandicorum
+
+  Nederlandsch Tijdschrift voor Geneeskunde'
+url: http://www.gutenberg.org/ebooks/19072
